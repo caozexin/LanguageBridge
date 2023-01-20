@@ -1,4 +1,7 @@
-### 个人没啥介绍的，就是几篇小文
+## 个人没啥介绍的，就是几篇小文
+
+### 更多可访问[这里](https://github.com/caozexin/culturalrevolution)
+### 以下所有文章合集：https://github.com/caozexin/culturalrevolution/releases/download/v1.0.0/caopaper2022.zip
 
 1. 创建一个面向全民开放的毛泽东大学，2022 年<br>
 https://github.com/caozexin/culturalrevolution/blob/master/Maozddx.pdf
@@ -16,7 +19,7 @@ https://github.com/caozexin/culturalrevolution/blob/master/Feminism.pdf
 https://github.com/caozexin/culturalrevolution/blob/master/HistoryOfCHN.pdf
 8. 附：新冠疫苗和风电开发中的国家安全问题，2022 年 9 月，内有 2022 年中国中部夏季大旱原因。
 
-### 之前人文作品
+## 之前人文作品
 + 中国改革政策建议，2002 年
 + 古代中国——光辉的公有制历程，2003 年
 + 黄河入海流——地缘变局下的文化大革命，2012 年
